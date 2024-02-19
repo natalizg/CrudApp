@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "titulo": "Prueba 1",
+      "texto": "Esta es la prueba 1",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "titulo": "Prueba 2",
+      "texto": "Esta es la prueba 2"
+    },
+    {
+      "id": "3",
+      "titulo": "Prueba 3",
+      "texto": "Esta es la prueba 3"
+    },
+    {
+      "id": "4",
+      "titulo": "Prueba 4",
+      "texto": "Esta es la prueba 4"
+    },
+    {
+      "id": "5",
+      "titulo": "Prueba 5",
+      "texto": "Esta es la prueba 5\n"
+    }
+  ]
+}
