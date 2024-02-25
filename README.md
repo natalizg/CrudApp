@@ -1,12 +1,12 @@
 
--- Aplicación standalone CRUD (Create, Read, Update, Delete) en Angular.
+# Aplicación standalone CRUD (Create, Read, Update, Delete) en Angular.
 
 - El frontend de la aplicación utiliza Angular Material. En este caso, se ha simplificado la estructura para que todo esté contenido en un único componente llamado "add.post", que maneja todas las operaciones relacionadas con los posts, como agregar, borrar y editar.
 
 - El backend de la aplicación está representado por servicios que se comunican con el JSON Server utilizando el módulo HttpClient de Angular para realizar operaciones CRUD a través de solicitudes HTTP.
 
 
-Servicios de mi aplicación: 
+## Servicios de mi aplicación: 
 
 - PostService: Se encarga de realizar operaciones relacionadas con los posts, como agregar, borrar o recuperar datos del archivo JSON db.json que actúa como base de datos simulada.
 
